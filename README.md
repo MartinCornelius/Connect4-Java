@@ -10,7 +10,9 @@ Java connect 4 game made with JavaFX (gui)
 
 ---
 
-<img src="" width=250px>
+<img src="https://user-images.githubusercontent.com/62438208/118454123-4de61100-b6f8-11eb-80f0-edd4ae194204.png" width=350px>
+<img src="https://user-images.githubusercontent.com/62438208/118454309-81c13680-b6f8-11eb-898e-f71221b6e7c6.png" width=350px>
+<img src="https://user-images.githubusercontent.com/62438208/118454397-9bfb1480-b6f8-11eb-91ce-d40ec42e4c6c.png" width=350px>
 
 ---
 
